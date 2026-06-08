@@ -2,7 +2,7 @@
 
 **Difficulty:** Easy  
 **OS:** Windows  
-**Author:** Abdelilah (cat0x01)  
+**Author:** Abdelilah (S4W)  
 
 ---
 
